@@ -37,7 +37,7 @@ spring:
       indent-output: true
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:mysql://mysql.agh.edu.pl:3306/ogarek?useUnicode=true&characterEncoding=utf-8&createDatabaseIfNotExist=true&useSSL=false
+    url: jdbc:mysql://mysql.agh.edu.pl:3306/ogarek
     username: ogarek
     password: hWRhacypCSqAs24H
     hikari:
